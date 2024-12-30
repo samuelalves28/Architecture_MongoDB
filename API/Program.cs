@@ -1,4 +1,4 @@
-using API.Injections;
+using API.Configurations;
 using infrastructure.Data;
 
 var builder = WebApplication.CreateBuilder(args);

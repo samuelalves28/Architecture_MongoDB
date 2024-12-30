@@ -1,9 +1,7 @@
 ﻿using API.Implementations.Interfaces;
 using API.Implementations.Repositories;
-using API.Models;
-using infrastructure.Base.Implementations.Interfaces;
 
-namespace API.Injections;
+namespace API.Configurations;
 
 public static class DependencyInjectionConfiguration
 {
